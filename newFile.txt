@@ -1,6 +1,0 @@
-Dummy file
-
-modified.
-=======
-modified local
-
